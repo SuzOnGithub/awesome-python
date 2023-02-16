@@ -2,6 +2,9 @@
 
 Your contributions are always welcome!
 
+# E-Mail:
+Bitte an kollege@firma.com senden!
+
 ## Guidelines
 
 * Add one link per Pull Request.
